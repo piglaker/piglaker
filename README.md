@@ -1,7 +1,7 @@
-## Xiaotian Zhang 👋
+## Xiaotian Zhang 
 
 
-Hi! I graduated from Fudan University, currently an AI Engineer working on LLMs & Agent system at a startup in Shanghai, China. I have 2 year experience on NLP & Software Engineering.
+Hi!👋 I graduated from Fudan University, currently an AI Engineer working on LLMs & Agent system at a startup in Shanghai, China. I have 2 year experience on NLP & Software Engineering.
 
 I am a core contributor to the open source projects MOSS and GAOKAO-Bench, Focus on LLMs engineering & evaluation.
 
