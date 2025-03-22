@@ -3,12 +3,11 @@
 
 Hi! I graduated from Fudan University, currently an AI Engineer working on LLMs & Agent system at a startup in Shanghai, China. I have 2 year experience on NLP & Software Engineering.
 
-I am a core contributor to the open source projects MOSS and GAOKAO-Bench, Focus on model engineering and evaluation
+I am a core contributor to the open source projects MOSS and GAOKAO-Bench, Focus on LLMs engineering & evaluation.
 
 I am continuing my research on Chinese Spelling Checking (ACL2023, arxiv, arxiv) and multi-turn dialogue (ACL2023) at Fudan University.
 
-By the way, it is worth mentioning that my undergraduate thesis in the Department of Structural Disaster Prevention and Mitigation Engineering at Tongji University pioneered a new direction of using deep learning to quickly predict structural responses.
-
+By the way, it is worth mentioning that my undergraduate thesis in the Department of Structural Disaster Prevention and Mitigation Engineering at Tongji University pioneered a new direction of using deep learning for structural responses prediction.
 
 
 ### Education
