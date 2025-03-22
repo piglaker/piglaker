@@ -1,6 +1,6 @@
 ## Xiaotian Zhang 👋
 
-<!--
+
 Hi! I graduated from Fudan University, currently an AI Engineer working on LLMs & Agent system at a startup in Shanghai, China. I have 2 year experience on NLP & Software Engineering.
 
 I am a core contributor to the open source projects MOSS and GAOKAO-Bench, Focus on model engineering and evaluation
@@ -9,7 +9,7 @@ I am continuing my research on Chinese Spelling Checking (ACL2023, arxiv, arxiv)
 
 By the way, it is worth mentioning that my undergraduate thesis in the Department of Structural Disaster Prevention and Mitigation Engineering at Tongji University pioneered a new direction of using deep learning to quickly predict structural responses.
 
--->
+
 
 ### Education
 - Fudan University, M.S in Computer Science | 2021-2023
