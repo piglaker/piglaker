@@ -23,7 +23,7 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 ### Research
 
 - [Moss: An open conversational large language model](https://link.springer.com/article/10.1007/s11633-024-1502-8) (MIR)
-- [Evaluating the performance of large language models on gaokao benchmark](https://arxiv.org/abs/2305.12474) (Follow-up work will be published in ACL2024)
+- [Evaluating the performance of large language models on gaokao benchmark](https://arxiv.org/abs/2305.12474) (Follow-up work published in ACL2024)
 - [Investigating Glyph Phonetic Information for Chinese Spell Checking: What Works and What's Next](https://aclanthology.org/2023.findings-acl.1/) (ACL2023)
 - [Does correction remain a problem for large language models?](https://arxiv.org/abs/2308.01776)
 - [Sdcl: Self-distillation contrastive learning for chinese spell checking](https://arxiv.org/abs/2210.17168)
