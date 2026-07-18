@@ -21,6 +21,7 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 
 - Shanghai AI Lab (2023-2024, Research Intern)
 - Zulution.AI / Museland (2024-, Algorithm Research Engineer, Early Team Member)
+- AI × CAD Exploration (2025, independent collaboration with researchers from Tongji University)
 - Trooly.AI (2026-, Technical Advisor & Builder)
 
 ### Research
@@ -34,7 +35,6 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 
 ### Contact
 - Email: piglaker@email.com or zxt235813@163.com
-
 
 
 
