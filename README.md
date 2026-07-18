@@ -1,60 +1,41 @@
-# Xiaotian Zhang
+## Xiaotian Zhang 
 
-**AI researcher, builder, and technical advisor.**
 
-I build LLM agents and AI-native products, with work spanning research,
-evaluation, infrastructure, and product engineering.
+Hi!👋 I graduated from Fudan University and am currently an Algorithm Research Engineer and early team member at Zulution.AI, building Museland in Shanghai, China. I work on LLMs, AI Agents, and AI products.
 
-[Google Scholar](https://scholar.google.com/citations?user=WN9vOswAAAAJ) ·
-[Email](mailto:piglaker@gmail.com)
+Since 2026, I have also been a Technical Advisor & Builder at [Trooly.AI](https://www.trooly.ai/).
 
-## Now
+I am a core contributor to the open source projects MOSS and GAOKAO-Bench, focusing on LLM engineering & evaluation.
 
-- **Algorithm Research Engineer & Early Team Member, Zulution.AI / Museland**
-  (2024–present)<br>
-  Working across algorithm research and production engineering to build
-  LLM- and agent-powered product experiences.
+I finished my research on Chinese Spelling Checking (ACL2023) and multi-turn dialogue (ACL2023) at Fudan University.
 
-- **Technical Advisor & Builder, [Trooly.AI](https://www.trooly.ai/)**
-  (2026–present)<br>
-  Advising on and building multimodal AI systems for in-depth research
-  interviews, from system architecture and evaluation to product experience.
+By the way, it is worth mentioning that my undergraduate thesis in the Department of Structural Disaster Prevention and Mitigation Engineering at Tongji University pioneered a new direction of using deep learning for structural responses prediction.
 
-- **Research Intern, Shanghai AI Laboratory** (2023–2024)<br>
-  Worked on large language models, evaluation, inference, and tool-augmented
-  systems.
 
-## Selected Open Source
+### Education
+- Fudan University, M.S in Computer Science | 2021-2023
+- Tongji University, B.S. in Civil Engineering | 2017-2021
 
-- **[MOSS](https://github.com/OpenMOSS/MOSS)** — Core contributor to an open,
-  tool-augmented conversational large language model from Fudan University.
-- **[GAOKAO-Bench](https://github.com/OpenLMLab/GAOKAO-Bench)** — Core
-  contributor to a benchmark for evaluating large language models with Chinese
-  Gaokao questions.
-- **[SpecialEdition](https://github.com/piglaker/SpecialEdition)** — Models and
-  tools for Chinese spelling correction, released alongside research at ACL
-  2023.
 
-## Selected Research
+### Works
 
-- [MOSS: An Open Conversational Large Language Model](https://link.springer.com/article/10.1007/s11633-024-1502-8)
-  — *Machine Intelligence Research*, 2024
-- [Evaluating the Performance of Large Language Models on GAOKAO-Bench](https://arxiv.org/abs/2305.12474)
-  — ACL follow-up work, 2024
-- [Investigating Glyph and Phonetic Information for Chinese Spell Checking: What Works and What's Next](https://aclanthology.org/2023.findings-acl.1/)
-  — *Findings of ACL*, 2023
-- [Multijugate Dual Learning for Low-Resource Task-Oriented Dialogue System](https://aclanthology.org/2023.findings-acl.702/)
-  — *Findings of ACL*, 2023
+- Shanghai AI Lab (2023-2024, Research Intern)
+- Zulution.AI / Museland (2024-, Algorithm Research Engineer, Early Team Member)
+- Trooly.AI (2026-, Technical Advisor & Builder)
 
-[See all publications on Google Scholar →](https://scholar.google.com/citations?user=WN9vOswAAAAJ)
+### Research
 
-## Education
+- [Moss: An open conversational large language model](https://link.springer.com/article/10.1007/s11633-024-1502-8) (MIR)
+- [Evaluating the performance of large language models on gaokao benchmark](https://arxiv.org/abs/2305.12474) (Follow-up work published in ACL2024)
+- [Investigating Glyph Phonetic Information for Chinese Spell Checking: What Works and What's Next](https://aclanthology.org/2023.findings-acl.1/) (ACL2023)
+- [Does correction remain a problem for large language models?](https://arxiv.org/abs/2308.01776)
+- [Sdcl: Self-distillation contrastive learning for chinese spell checking](https://arxiv.org/abs/2210.17168)
+- [Multijugate Dual Learning for Low-Resource Task-Oriented Dialogue System](https://aclanthology.org/2023.findings-acl.702.pdf) (ACL2023)
 
-- **Fudan University** — M.S. in Computer Science, 2021–2023
-- **Tongji University** — B.S. in Civil Engineering, 2017–2021
+### Contact
+- Email: piglaker@email.com or zxt235813@163.com
 
-## Beyond Code
 
-My path from civil engineering to AI still shapes how I think about systems:
-ambitious ideas matter, but so do constraints, reliability, and failure modes.
-Outside work, I enjoy rock climbing, swimming, traveling, and literature.
+
+
+
