@@ -7,6 +7,8 @@ Since 2026, I have also been a Technical Advisor & Builder at [Trooly.AI](https:
 
 I am a core contributor to the open source projects MOSS and GAOKAO-Bench, focusing on LLM engineering & evaluation.
 
+My current research and engineering interests include agent evaluation, environment and feedback design, agentic role-play, and AI for mathematics.
+
 I finished my research on Chinese Spelling Checking (ACL2023) and multi-turn dialogue (ACL2023) at Fudan University.
 
 By the way, it is worth mentioning that my undergraduate thesis in the Department of Structural Disaster Prevention and Mitigation Engineering at Tongji University pioneered a new direction of using deep learning for structural responses prediction.
@@ -35,7 +37,6 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 
 ### Contact
 - Email: piglaker@email.com or zxt235813@163.com
-
 
 
 
