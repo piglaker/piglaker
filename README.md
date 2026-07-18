@@ -1,9 +1,13 @@
 ## Xiaotian Zhang 
 
 
-Hi!👋 I graduated from Fudan University, currently an AI Engineer working on LLMs & Agent system at a startup in Shanghai, China. I have 2 year experience on NLP & Software Engineering.
+Hi!👋 I graduated from Fudan University and am currently building an AI startup in Shanghai, China. I work on LLMs, AI Agents, and AI products.
 
-I am a core contributor to the open source projects MOSS and GAOKAO-Bench, Focus on LLMs engineering & evaluation.
+Since 2026, I have also been a Technical Advisor & Builder at [Trooly.AI](https://www.trooly.ai/).
+
+I am a core contributor to the open source projects MOSS and GAOKAO-Bench, focusing on LLM engineering & evaluation.
+
+My current research and engineering interests include agent evaluation, environment and feedback design, agentic role-play, and AI for mathematics.
 
 I finished my research on Chinese Spelling Checking (ACL2023) and multi-turn dialogue (ACL2023) at Fudan University.
 
@@ -18,7 +22,9 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 ### Works
 
 - Shanghai AI Lab (2023-2024, Research Intern)
-- Undisclosed AI Startup (2024-, AI Engineer, Early employees)
+- Zulution.AI / Museland (2024-2025, Algorithm Research Engineer, Early Team Member)
+- AI × CAD Exploration (2025-, independent collaboration with researchers from Tongji University)
+- Trooly.AI (2026-, Technical Advisor & Builder)
 
 ### Research
 
@@ -31,8 +37,3 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 
 ### Contact
 - Email: piglaker@email.com or zxt235813@163.com
-
-
-
-
-
