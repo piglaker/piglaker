@@ -1,7 +1,7 @@
 ## Xiaotian Zhang 
 
 
-Hi!👋 I graduated from Fudan University and work on LLMs, AI Agents, and AI products. Previously, I was an Algorithm Research Engineer and early team member at Zulution.AI, where I helped build Museland.
+Hi!👋 I graduated from Fudan University and am currently building an AI startup in Shanghai, China. I work on LLMs, AI Agents, and AI products.
 
 Since 2026, I have also been a Technical Advisor & Builder at [Trooly.AI](https://www.trooly.ai/).
 
