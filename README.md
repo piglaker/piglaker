@@ -1,9 +1,7 @@
 ## Xiaotian Zhang 
 
 
-Hi!👋 I graduated from Fudan University and am currently building an AI startup in Shanghai, China. I work on LLMs, AI Agents, and AI products.
-
-Since 2026, I have also been a Technical Advisor & Builder at [Trooly.AI](https://www.trooly.ai/).
+Hi!👋 I graduated from Fudan University and am based in Shanghai, China. I work on LLMs, AI Agents, and AI products.
 
 I am a core contributor to the open source projects MOSS and GAOKAO-Bench, focusing on LLM engineering & evaluation.
 
@@ -24,7 +22,6 @@ By the way, it is worth mentioning that my undergraduate thesis in the Departmen
 - Shanghai AI Lab (2023-2024, Research Intern)
 - Zulution.AI / Museland (2024-2025, Algorithm Research Engineer, Early Team Member)
 - AI × CAD Exploration (2025-, independent collaboration with researchers from Tongji University)
-- Trooly.AI (2026-, Technical Advisor & Builder)
 
 ### Research
 
